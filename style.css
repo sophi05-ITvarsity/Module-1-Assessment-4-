@@ -1,0 +1,25 @@
+h1{
+    color: darkslategray;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: 200px;
+}
+
+table{
+    font-family: inherit;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: mediumseagreen;  
+}
+
+th{
+    font-weight: 800;
+    background-color: mediumseagreen;
+    color: #ffffff;
+    padding: 4px;
+}
+
+td{
+    padding: 4px;
+}
