@@ -3,6 +3,7 @@ h1{
     font-family: serif;
     font-size: 25px;
     font-weight: 200px;
+    padding-left: 8px;
 }
 
 table{
@@ -10,14 +11,14 @@ table{
     border-collapse: collapse;
     border-width: 3px;
     border-style: solid;
-    border-color: mediumseagreen;  
+    border-color: mediumseagreen;
 }
 
 th{
     font-weight: 800;
     background-color: mediumseagreen;
     color: #ffffff;
-    padding: 4px;
+    padding: 3px;
 }
 
 td{
